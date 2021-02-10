@@ -1,0 +1,95 @@
+.hang{
+	white-space:nowrap;
+	height:20%;
+}
+.left_{
+	text-align:center;
+	height:30px;
+	width:50%;
+	font-size:20px;
+	color:#F00;
+}
+.right_{
+	text-align:left;
+	height:30px;
+	width: 50%;
+}
+.form_style{
+	background: #AABB77;
+}
+.ot_button{
+  cursor: pointer;
+  background-color: rgba(24,66,43,0.8);
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  padding: 10px;
+  width: 100%;
+}
+.choose{
+	width:175px;
+    height: 60px;
+	text-align:center ;
+}
+.cinput{
+	width:350px;
+	text-align:center;
+	height:60px;
+}
+input{
+	width:320px;
+	height:30px;
+	position:center;
+}
+
+
+body{
+	height:100%;
+}
+#button{
+  cursor: pointer;
+  background-color: rgba(24,66,43,0.8);
+  border: 2px solid #3498db;
+  border-radius: 4px;
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+  position:relative;
+
+  
+}
+
+#lie{
+	width:55%;
+}
+
+#back{
+	text-align:center;
+    color:red;
+	width:15%;
+	white-space: nowrap;
+}
+
+#main_table{
+	background-image:url('main_table_bg.jpg');
+	background-repeat:no-repeat center top;
+	background-size: cover;	
+	height:100%;
+	width:100%;
+	
+	
+}
+
+#login_table{
+	border-radius: 25px;
+	background-color: rgba(24,66,43,0.8);
+    padding: 20px;
+    width:350px;
+    height:400px;
+	border: 2px solid #3498db;
+}
